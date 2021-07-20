@@ -13,8 +13,8 @@ Japanese, English, Chinese / C++, C#, Kotlin, Typescript, etc.
 - Lead Engineer & Chief Technology Office (CTO) at 1st ITEC
 
 ## 🌍 Language
-Japanese, English, Chinese / 
-C, C++, C#, Java, Javascript, Typescript, Python, Swift, Visual Basic, Kotlin, SQLite, Rust  
+Japanese, English, Chinese /  
+C, C++, C#, Java, Javascript, Typescript, Python, Swift, Visual Basic, Kotlin, SQLite, Rust, HTML5, CSS3, SCSS 
 
 My parents are Chinese, so I can speak Chinese at a daily conversation level, but my native language is Japanese.
 
@@ -26,9 +26,21 @@ My parents are Chinese, so I can speak Chinese at a daily conversation level, bu
 
 ...
 
-## Contacts
+## ✉️ Contacts
 - Twitter [@CyberHacnoshuke](https://twitter.com/CyberHacnoshuke)
 - E-mail michael.lee.east.earth@gamil.com
 - Qiita [@Cyber_Hacnosuke](https://qiita.com/Cyber_Hacnosuke)
 - Zenn [博ノ助](https://zenn.dev/cyber_hacnosuke)
 - Github [@miko-misa](https://github.com/miko-misa)
+
+## 🧑🏻‍💻 In progress...
+### 1.TecTask
+The culmination of my five years.  
+_**" Making task management easier. "**_  
+I'm going to use Nuxt.js, SCSS, Typescript, and Firebase.  
+
+
+### 2.QRCodeSystem in SeikoFesta
+
+A group of systems to thoroughly manage visitors as a countermeasure against the new coronavirus.  
+We will make full use of food reservations and admission restrictions to ensure a completely controlled and safe cultural festival.  
