@@ -27,3 +27,8 @@ My parents are Chinese, so I can speak Chinese at a daily conversation level, bu
 ...
 
 ## Contacts
+- Twitter [@CyberHacnoshuke](https://twitter.com/CyberHacnoshuke)
+- E-mail michael.lee.east.earth@gamil.com
+- Qiita [@Cyber_Hacnosuke](https://qiita.com/Cyber_Hacnosuke)
+- Zenn [博ノ助](https://zenn.dev/cyber_hacnosuke)
+- Github [@miko-misa](https://github.com/miko-misa)
