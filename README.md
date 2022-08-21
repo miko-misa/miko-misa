@@ -16,7 +16,7 @@ C, C++, C#, Java, Javascript, Typescript, Python, Swift, Visual Basic, Kotlin, S
 My parents are Chinese, so I can speak Chinese at a daily conversation level, but my native language is Japanese.
 
 ## 🏳️ Experience & History
-- 2017/03&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Start programming. ( C/C++ )
+- 2017/03&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Start programming. ( C/C++ )
 - 2017/04           Entered Seikou Gakuin.
 - 2019/01 - 2019/05 Android application leader at 'Institute of General Technology' in 60th SeikoFesta Executive Committee.
 - 2019/04           Release my first application ([聖光祭60th](https://play.google.com/store/apps/details?id=jp.ac.seiko.seikofestaapp60th)) on Google Play Store.
