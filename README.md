@@ -42,9 +42,3 @@ My parents are Chinese, so I can speak Chinese at a daily conversation level, bu
 The culmination of my five years.  
 _**" Making task management easier. "**_  
 I'm going to use Nuxt.js, SCSS, Typescript, and Firebase.  
-
-
-### 2.QRCodeSystem in SeikoFesta
-
-A group of systems to thoroughly manage visitors as a countermeasure against the new coronavirus.  
-We will make full use of food reservations and admission restrictions to ensure a completely controlled and safe cultural festival.  
