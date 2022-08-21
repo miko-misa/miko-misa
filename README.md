@@ -19,7 +19,7 @@ My parents are Chinese, so I can speak Chinese at a daily conversation level, bu
 - 2017/03           Start programming. ( C/C++ )
 - 2017/04           Entered Seikou Gakuin.
 - 2019/01 - 2019/05 Android application leader at 'Institute of General Technology' in 60th SeikoFesta Executive Committee.
-- 2019/04           Release my first application ([聖光祭60th]((https://play.google.com/store/apps/details?id=jp.ac.seiko.seikofestaapp60th))) on Google Play Store.
+- 2019/04           Release my first application ([聖光祭60th](https://play.google.com/store/apps/details?id=jp.ac.seiko.seikofestaapp60th)) on Google Play Store.
 - 2020/12 - 2021/09 Technical Department Vice President in 62nd SeikoFesta Executive Committee.
 - 2021/01 - 2021/09 Lead Engineer & Chief Technology Office (CTO) at 1st ITEC
 - 2021/04 - 2022/03 Audit Committee Vice Chairman in 35th SeikoGakuin Student Council
