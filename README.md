@@ -25,7 +25,7 @@ My parents are Chinese, so I can speak Chinese at a daily conversation level, bu
 - 2021/04 - 2022/03 Audit Committee Vice Chairman in 35th SeikoGakuin Student Council
 - 2021/08&emsp;&emsp;&emsp;&emsp;&emsp;Release [website](https://seikofes.official.jp/2021/) for SeikoFesta.
 - 2021/09&emsp;&emsp;&emsp;&emsp;&emsp;Release [website](https://seikosportsfes-2021.web.app/score/) for Seiko Sports Day.
-- 2021/09&&emsp;&emsp;&emsp;&emsp;&emsp;Release application ([聖光祭62nd](https://apps.apple.com/jp/app/%E7%AC%AC62%E5%9B%9E%E8%81%96%E5%85%89%E7%A5%AD/id1579141008)) on App Store.
+- 2021/09&emsp;&emsp;&emsp;&emsp;&emsp;Release application ([聖光祭62nd](https://apps.apple.com/jp/app/%E7%AC%AC62%E5%9B%9E%E8%81%96%E5%85%89%E7%A5%AD/id1579141008)) on App Store.
 - 2022/04&emsp;&emsp;&emsp;&emsp;&emsp;Supporting the release of the application ([聖光祭63rd](https://apps.apple.com/jp/app/%E7%AC%AC63%E5%9B%9E%E8%81%96%E5%85%89%E7%A5%AD/id1621281479)).
 
 ...
