@@ -41,4 +41,8 @@ My parents are Chinese, so I can speak Chinese at a daily conversation level, bu
 ### 1.TecTask
 The culmination of my five years.  
 _**" Making task management easier. "**_  
-I'm going to use Nuxt.js, SCSS, Typescript, and Firebase.  
+I'm going to use React, SCSS, Typescript, and Firebase.  
+
+### 2.Minecraft Modding
+
+### 3.New Tex macros
