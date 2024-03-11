@@ -2,7 +2,7 @@
 
 Just a student who wants to be a girl.  
 
-17 years old. (B: 2004/07/27)  
+19 years old. (B: 2004/07/27)  
 **Web Designer, Front End Engineer, Application Engineer**.  
 Japanese, English, Chinese / C++, C#, Kotlin, Typescript, etc. 
 
